@@ -2,7 +2,7 @@
 
 # This script can be used to build PdfiumAndroid library (libjniPdfium) and its dependent libraries(libpng and libfreetype2).
 
-export NDK_ROOT=/d/Android/ndk/28.2.13676358
+export NDK_ROOT=/Users/ericcerio/Library/Android/sdk/ndk/28.2.13676358
 
 export BUILD_ROOT="builddir"
 rm -fr ${BUILD_ROOT}
